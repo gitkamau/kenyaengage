@@ -361,16 +361,22 @@
                     "committee": {
                         "history": [
                             {
-                                "committee": "Departmental Committee on Health",
+                                "committee": "Departmental Committee on Education, Research & Technology",
                                 "position": "Vice-Chairperson",
                                 "from":2013,
-                                "to":2017
+                                "to":"Present"
+                            },
+                            {
+                                "committee": "Constitutional Implementation Oversight Committee",
+                                "position": "Member",
+                                "from":2013,
+                                "to":"Present"
                             },
                             {
                                 "committee": "Departmental Committee on Health",
-                                "position": "Vice-Chairperson",
-                                "from":2013,
-                                "to":2017
+                                "position": "Chairperson",
+                                "from":2017,
+                                "to":"Present"
                             }
                         ]
                     },
