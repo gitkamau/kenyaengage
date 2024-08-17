@@ -6,6 +6,7 @@
             "sponsors": [
                 {
                     "name": "HON. (CPA) KIMANI FRANCIS KURIA",
+                    "title": "Chairperson, Departmental Committee on Finance and National Planning",
                     "committee": {
                         "members": [
                             {
@@ -127,39 +128,8 @@
                                     "Budgeting"
                                 ],
                                 "sponsored_bills_history": []
-                            },
-                            {
-                                "name": "HON. MUNYORO JOSEPH KAMAU",
-                                "committee": {},
-                                "constituency": "KIGUMO",
-                                "parties_coalitions": "UDA",
-                                "education": {
-                                    "institution": "University Of Nairobi",
-                                    "qualification": "Bachelor Of Arts Economics And Mathematics"
-                                },
-                                "employment_history": [
-                                    {
-                                        "employer": "Mojos Group Ltd",
-                                        "position_held": "Director",
-                                        "from": 2010,
-                                        "to": "To Date"
-                                    },
-                                    {
-                                        "employer": "Nation Media Group",
-                                        "position_held": "Sales Manager NTV",
-                                        "from": 2008,
-                                        "to": 2012
-                                    }
-                                ],
-                                "interests": [
-                                    "Finance",
-                                    "Foreign Reations",
-                                    "Budgeting"
-                                ],
-                                "sponsored_bills_history": []
                             }
                         ],
-                        "chair": "HON. (CPA) KIMANI FRANCIS KURIA",
                         "vice_chair": "HON. (AMB.) LANGAT BENJAMIN KIPKIRUI",
                         "title": "Departmental Committee on Finance and National Planning",
                         "history": [
@@ -200,6 +170,230 @@
             "dated": "19/01/24",
             "maturity": "",
             "gazette_no": "18",
+            "first_read": "",
+            "second_read": "",
+            "third_read": "",
+            "resources": [
+                "https://www.kenyalaw.org/kl/index.php?id=12043"
+            ]
+        },
+        {
+            "title": "The Ethics and Anti-Corruption Commission (Amendment) Bill, 2024",
+            "stage": "National Assembly Bills",
+            "sponsors": [
+                {
+                    "name": "HON. ICHUNG’WAH ANTONY KIMANI",
+                    "title": "Leader of Majority Party",
+                    "committee": {
+                        "history": [
+                            {
+                                "committee": "Committee on Members Services and Facilities",
+                                "position": "Member",
+                                "from":2020,
+                                "to":2022
+                            },
+                            {
+                                "committee": "Budget and Appropriations Committee",
+                                "position": "Chairperson",
+                                "from":2017,
+                                "to":2020
+                            },
+                            {
+                                "committee": "Committee on Privileges",
+                                "position": "Member",
+                                "from":2017,
+                                "to":2020
+                            },
+                            {
+                                "committee": "Agriculture and Livestock",
+                                "position": "Member",
+                                "from":2013,
+                                "to":2017
+                            },
+                            {
+                                "committee": "Public Investment Committee",
+                                "position": "Vice Chairperson",
+                                "from":2013,
+                                "to":2017
+                            }
+                        ]
+                    },
+                    "constituency": "KIKUYU",
+                    "parties_coalitions": "The National Alliance",
+                    "education": {
+                        "institution": "The University of Nairobi",
+                        "qualification": "Bachelor of Arts in Economics and History"
+                    },
+                    "employment_history": [
+                        {
+                            "employer": "Parliament of Kenya",
+                            "position_held": "Member of Parliament- Kikuyu Constituency"
+                        }
+                    ],
+                    "interests": [
+                        "Economics and Finance"
+                    ],
+                    "sponsored_bills_history": []
+                },
+                {
+                    "name": "Hon. Wandayi, James Opiyo",
+                    "title": "Leader of the Minority Party",
+                    "committee": {
+                        "history": [
+                            {
+                                "committee": "Administration & National Security",
+                                "position": "Member",
+                                "from":2013,
+                                "to":2017
+                            },
+                            {
+                                "committee": "Agriculture & Cooperatives Development",
+                                "position": "Member",
+                                "from":2013,
+                                "to":2017
+                            },
+                            {
+                                "committee": "Environment and Natural Resources",
+                                "position": "Member",
+                                "from":2013,
+                                "to":2017
+                            },
+                            {
+                                "committee": "Public Accounts Committees",
+                                "position": "Chairperson",
+                                "from":2017,
+                                "to":2022
+                            }
+                        ]
+                    },
+                    "constituency": "Ugunja",
+                    "parties_coalitions": "ODM",
+                    "education": {
+                        "institution": "The University of Nairobi",
+                        "qualification": "Bachelor of Science in Agriculture"
+                    },
+                    "employment_history": [
+                        {
+                            "employer": "Parliament of Kenya",
+                            "position_held": "Member of Parliament- Kikuyu Constituency"
+                        }
+                    ],
+                    "interests": [
+                        ""
+                    ],
+                    "sponsored_bills_history": [
+                        {
+                            "title": "Leadership and Integrity Act, 2012 Ammendment"                           
+                        },
+                        {
+                            "title": "Penal Code, Cap 63, Laws of Kenya Ammendment"                           
+                        }
+                    ]
+                }
+            ],
+            "dated": "04/03/24",
+            "maturity": "",
+            "gazette_no": "47",
+            "first_read": "",
+            "second_read": "",
+            "third_read": "",
+            "resources": [
+                "https://www.kenyalaw.org/kl/index.php?id=12043"
+            ]
+        },
+        {
+            "title": "The Medical Social Workers Bill, 2024",
+            "stage": "National Assembly Bills",
+            "sponsors": [
+                {
+                    "name": "Hon. Pukose, Dr Robert",
+                    "title": "Chairperson of the Departmental Committee on Health",
+                    "committee": {
+                        "history": [
+                            {
+                                "committee": "Departmental Committee on Health",
+                                "position": "Vice-Chairperson",
+                                "from":2013,
+                                "to":2017
+                            },
+                            {
+                                "committee": "Departmental Committee on Health",
+                                "position": "Vice-Chairperson",
+                                "from":2013,
+                                "to":2017
+                            }
+                        ]
+                    },
+                    "constituency": "Endebess",
+                    "parties_coalitions": "JP",
+                    "education": {
+                        "institution": "The University of Nairobi",
+                        "qualification": "Masters of Medicine (M.MED- General Surgery)"
+                    },
+                    "employment_history": [
+                        {
+                            "employer": "Kenya National Assembly",
+                            "position_held": "Member of Parliament, Endebess Constituency"
+                        }
+                    ],
+                    "interests": [
+                    ],
+                    "sponsored_bills_history": []
+                }
+            ],
+            "dated": "28/03/24",
+            "maturity": "",
+            "gazette_no": "79",
+            "first_read": "",
+            "second_read": "",
+            "third_read": "",
+            "resources": [
+                "https://www.kenyalaw.org/kl/index.php?id=12043"
+            ]
+        },
+        {
+            "title": "The Breastfeeding Mothers Bill, 2024",
+            "stage": "National Assembly Bills",
+            "sponsors": [
+                {
+                    "name": "Hon. Chege, Maitu Sabina Wanjiru",
+                    "title": "Chairperson of the Departmental Committee on Health",
+                    "committee": {
+                        "history": [
+                            {
+                                "committee": "Departmental Committee on Health",
+                                "position": "Vice-Chairperson",
+                                "from":2013,
+                                "to":2017
+                            },
+                            {
+                                "committee": "Departmental Committee on Health",
+                                "position": "Vice-Chairperson",
+                                "from":2013,
+                                "to":2017
+                            }
+                        ]
+                    },
+                    "constituency": "Murang'a",
+                    "parties_coalitions": "JP",
+                    "education": {
+                        "institution": "The University of Nairobi",
+                        "qualification": "Master of Arts (Communication)"
+                    },
+                    "employment_history": [
+                        {
+                            "employer": "Kenya National Assembly",
+                            "position_held": "Member of Parliament, Endebess Constituency"
+                        }
+                    ],
+                    "interests": [
+                    ],
+                    "sponsored_bills_history": []
+                }
+            ],
+            "dated": "16/02/24",
+            "maturity": "",
+            "gazette_no": "34",
             "first_read": "",
             "second_read": "",
             "third_read": "",
