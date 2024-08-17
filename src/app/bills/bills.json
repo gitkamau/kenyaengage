@@ -1,0 +1,211 @@
+{
+    "bills": [
+        {
+            "title": "The Public Finance Management (Amendment) Bill, 2024",
+            "stage": "National Assembly Bills",
+            "sponsors": [
+                {
+                    "name": "HON. (CPA) KIMANI FRANCIS KURIA",
+                    "committee": {
+                        "members": [
+                            {
+                                "name": "HON. (AMB.) LANGAT BENJAMIN KIPKIRUI",
+                                "committee": {
+                                    "history": [
+                                        {
+                                            "committee": "Finance & Planning & Trade",
+                                            "position": "Chairperson",
+                                            "from": 2013,
+                                            "to": 2017
+                                        },
+                                        {
+                                            "committee": "Budget & Appropriation Committee",
+                                            "position": "Member",
+                                            "from": 2013,
+                                            "to": 2017
+                                        },
+                                        {
+                                            "committee": "Liaison Committee",
+                                            "position": "Member",
+                                            "from": 2013,
+                                            "to": 2017
+                                        },
+                                        {
+                                            "committee": "Local Authorities & Fund Acc. Committee",
+                                            "position": "Vice- Chairman",
+                                            "from": 2008,
+                                            "to": 2013
+                                        },
+                                        {
+                                            "committee": "Public works & Housing Committee",
+                                            "position": "Member",
+                                            "from": 2008,
+                                            "to": 2013
+                                        }
+                                    ]
+                                },
+                                "constituency": "AINAMOI",
+                                "parties_coalitions": "UDA",
+                                "education": {
+                                    "institution": "University of Nairobi",
+                                    "qualification": "MBA"
+                                },
+                                "employment_history": [
+                                    {
+                                        "employer": "Kenya Government",
+                                        "position_held": "High Commissioner- Namibia"
+                                    }
+                                ],
+                                "interests": [
+                                    "Public Finance",
+                                    "Budgeting & Infrastructure Initiatives",
+                                    "Foreign Relations"
+                                ],
+                                "sponsored_bills_history": []
+                            },
+                            {
+                                "name": "HON. KIPKOROS, JOSEPH MAKILAP",
+                                "committee": {},
+                                "constituency": "BARINGO NORTH",
+                                "parties_coalitions": "UDA",
+                                "education": {
+                                    "institution": "CUEA",
+                                    "qualification": "B.Ed Double Mathematics"
+                                },
+                                "employment_history": [
+                                    {
+                                        "employer": "KNUT Baringo Branch",
+                                        "position_held": "Chairman"
+                                    },
+                                    {
+                                        "employer": "TSC Secretariat",
+                                        "position_held": "District Staffing Officer"
+                                    },
+                                    {
+                                        "employer": "Baringo County Government",
+                                        "position_held": "MCA"
+                                    },
+                                    {
+                                        "employer": "Director - NOREB",
+                                        "position_held": "Baringo County Government"
+                                    }
+                                ],
+                                "interests": [
+                                    "Roads and Infrastructure",
+                                    "Water and Transport",
+                                    "Budget",
+                                    "Appropriation"
+                                ],
+                                "sponsored_bills_history": []
+                            },
+                            {
+                                "name": "HON. MUNYORO JOSEPH KAMAU",
+                                "committee": {},
+                                "constituency": "KIGUMO",
+                                "parties_coalitions": "UDA",
+                                "education": {
+                                    "institution": "University Of Nairobi",
+                                    "qualification": "Bachelor Of Arts Economics And Mathematics"
+                                },
+                                "employment_history": [
+                                    {
+                                        "employer": "Mojos Group Ltd",
+                                        "position_held": "Director",
+                                        "from": 2010,
+                                        "to": "To Date"
+                                    },
+                                    {
+                                        "employer": "Nation Media Group",
+                                        "position_held": "Sales Manager NTV",
+                                        "from": 2008,
+                                        "to": 2012
+                                    }
+                                ],
+                                "interests": [
+                                    "Finance",
+                                    "Foreign Reations",
+                                    "Budgeting"
+                                ],
+                                "sponsored_bills_history": []
+                            },
+                            {
+                                "name": "HON. MUNYORO JOSEPH KAMAU",
+                                "committee": {},
+                                "constituency": "KIGUMO",
+                                "parties_coalitions": "UDA",
+                                "education": {
+                                    "institution": "University Of Nairobi",
+                                    "qualification": "Bachelor Of Arts Economics And Mathematics"
+                                },
+                                "employment_history": [
+                                    {
+                                        "employer": "Mojos Group Ltd",
+                                        "position_held": "Director",
+                                        "from": 2010,
+                                        "to": "To Date"
+                                    },
+                                    {
+                                        "employer": "Nation Media Group",
+                                        "position_held": "Sales Manager NTV",
+                                        "from": 2008,
+                                        "to": 2012
+                                    }
+                                ],
+                                "interests": [
+                                    "Finance",
+                                    "Foreign Reations",
+                                    "Budgeting"
+                                ],
+                                "sponsored_bills_history": []
+                            }
+                        ],
+                        "chair": "HON. (CPA) KIMANI FRANCIS KURIA",
+                        "vice_chair": "HON. (AMB.) LANGAT BENJAMIN KIPKIRUI",
+                        "title": "Departmental Committee on Finance and National Planning",
+                        "history": [
+                            {
+                                "committee": "Public Accounts",
+                                "position": "Member"
+                            },
+                            {
+                                "committee": "Finance & National Planning",
+                                "position": "Member"
+                            },
+                            {
+                                "committee": "Budget & Appropriation",
+                                "position": "Member"
+                            }
+                        ]
+                    },
+                    "constituency": "MOLO",
+                    "parties_coalitions": "UDA",
+                    "education": {
+                        "institution": "Strathmore Business School",
+                        "qualification": "Master of Commerce (International Business Management)"
+                    },
+                    "employment_history": [
+                        {
+                            "employer": "Maryknoll Brothers",
+                            "position_held": "Regional Finance Manager"
+                        }
+                    ],
+                    "interests": [
+                        "Finance",
+                        "Accounting",
+                        "Trade"
+                    ],
+                    "sponsored_bills_history": []
+                }
+            ],
+            "dated": "19/01/24",
+            "maturity": "",
+            "gazette_no": "18",
+            "first_read": "",
+            "second_read": "",
+            "third_read": "",
+            "resources": [
+                "https://www.kenyalaw.org/kl/index.php?id=12043"
+            ]
+        }
+    ]
+}

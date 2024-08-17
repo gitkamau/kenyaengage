@@ -15,6 +15,7 @@ export default function CivicEducationPage() {
                 <TabsContent value="overview">
                     <p>Welcome to Civic Education. Here you can learn about...</p>
                 </TabsContent>
+                
                 <TabsContent value="modules">
                     <ModuleOverview />
                 </TabsContent>
